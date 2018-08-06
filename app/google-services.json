@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1010669332879",
+    "firebase_url": "https://alien-works-212420.firebaseio.com",
+    "project_id": "alien-works-212420",
+    "storage_bucket": "alien-works-212420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010669332879:android:711105de448335e9",
+        "android_client_info": {
+          "package_name": "com.hecto.bustracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010669332879-vsru3usm1a3d8gq6pq2fmjeflbga0umk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hecto.bustracking",
+            "certificate_hash": "c96836f515aa37d8d31807340ac050e63b7c2ed1"
+          }
+        },
+        {
+          "client_id": "1010669332879-16v69uq6edpbp59sj22g9jm83hjtu6o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0EoujL2eDmTuO80K4Zq-5yXAO3v4yi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010669332879-16v69uq6edpbp59sj22g9jm83hjtu6o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
